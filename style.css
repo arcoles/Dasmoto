@@ -1,0 +1,53 @@
+/* Codecademy Project: Dasmoto's Arts and Crafts
+   Author: Andrew, out of Dallas, TX */
+
+header {
+    background-image: url("./images/pattern.jpeg");
+    height: 120px;
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 45px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.sectiontitle {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+figure {
+    margin: 0px;
+}
+
+#brushescolor {
+    background-color: mediumspringgreen;
+}
+
+figcaption {
+    font-weight: bold;
+    margin: 20px 0px;
+}
+
+.description {
+    display: inline;
+}
+
+.price {
+    display: inline;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#framescolor {
+    background-color: lightcoral;
+}
+
+#paintcolor {
+    background-color: skyblue;
+}
